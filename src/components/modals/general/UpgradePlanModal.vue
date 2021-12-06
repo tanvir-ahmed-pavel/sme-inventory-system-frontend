@@ -48,23 +48,14 @@
               <button
                 @click="current = 'month'"
                 :class="[current === 'month' && 'active']"
-                class="
-                  btn btn-color-gray-400 btn-active btn-active-secondary
-                  px-6
-                  py-3
-                  me-2
-                "
+                class="btn btn-color-gray-400 btn-active btn-active-secondary px-6 py-3 me-2"
               >
                 Monthly
               </button>
               <button
                 @click="current = 'annual'"
                 :class="[current === 'annual' && 'active']"
-                class="
-                  btn btn-color-gray-400 btn-active btn-active-secondary
-                  px-6
-                  py-3
-                "
+                class="btn btn-color-gray-400 btn-active btn-active-secondary px-6 py-3"
               >
                 Annual
               </button>
@@ -81,14 +72,7 @@
                     <!--begin::Tab link-->
                     <div
                       @click="selected = plan.title"
-                      class="
-                        nav-link
-                        btn btn-outline btn-outline-dashed btn-color-dark
-                        d-flex
-                        flex-stack
-                        text-start
-                        p-6
-                      "
+                      class="nav-link btn btn-outline btn-outline-dashed btn-color-dark d-flex flex-stack text-start p-6"
                       :class="[
                         index !== plans.length - 1 && 'mb-6',
                         plan.default && 'active',
@@ -101,13 +85,7 @@
                       <div class="d-flex align-items-center me-2">
                         <!--begin::Radio-->
                         <div
-                          class="
-                            form-check
-                            form-check-custom
-                            form-check-solid
-                            form-check-success
-                            me-6
-                          "
+                          class="form-check form-check-custom form-check-solid form-check-success me-6"
                         >
                           <input
                             class="form-check-input"
@@ -122,13 +100,7 @@
                         <!--begin::Info-->
                         <div class="flex-grow-1">
                           <h2
-                            class="
-                              d-flex
-                              align-items-center
-                              fs-2
-                              fw-bolder
-                              flex-wrap
-                            "
+                            class="d-flex align-items-center fs-2 fw-bolder flex-wrap"
                           >
                             {{ plan.title }}
 

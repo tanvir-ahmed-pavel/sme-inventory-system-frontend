@@ -53,13 +53,7 @@
 
                 <!--begin::Label-->
                 <label
-                  class="
-                    btn btn-icon btn-circle btn-active-color-primary
-                    w-25px
-                    h-25px
-                    bg-white
-                    shadow
-                  "
+                  class="btn btn-icon btn-circle btn-active-color-primary w-25px h-25px bg-white shadow"
                   data-kt-image-input-action="change"
                   data-bs-toggle="tooltip"
                   title="Change avatar"
@@ -75,13 +69,7 @@
 
                 <!--begin::Remove-->
                 <span
-                  class="
-                    btn btn-icon btn-circle btn-active-color-primary
-                    w-25px
-                    h-25px
-                    bg-white
-                    shadow
-                  "
+                  class="btn btn-icon btn-circle btn-active-color-primary w-25px h-25px bg-white shadow"
                   data-kt-image-input-action="remove"
                   data-bs-toggle="tooltip"
                   @click="removeImage()"
@@ -118,10 +106,7 @@
                   <Field
                     type="text"
                     name="fname"
-                    class="
-                      form-control form-control-lg form-control-solid
-                      mb-3 mb-lg-0
-                    "
+                    class="form-control form-control-lg form-control-solid mb-3 mb-lg-0"
                     placeholder="First name"
                     v-model="profileDetails.name"
                   />
@@ -1278,11 +1263,7 @@
                     >
                     <Field
                       type="email"
-                      class="
-                        form-control form-control-lg form-control-solid
-                        fw-bold
-                        fs-6
-                      "
+                      class="form-control form-control-lg form-control-solid fw-bold fs-6"
                       id="emailaddress"
                       placeholder="Email Address"
                       name="emailaddress"
@@ -1304,11 +1285,7 @@
                     >
                     <Field
                       type="password"
-                      class="
-                        form-control form-control-lg form-control-solid
-                        fw-bold
-                        fs-6
-                      "
+                      class="form-control form-control-lg form-control-solid fw-bold fs-6"
                       name="confirmemailpassword"
                       id="confirmemailpassword"
                     />
@@ -1398,11 +1375,7 @@
                     >
                     <Field
                       type="password"
-                      class="
-                        form-control form-control-lg form-control-solid
-                        fw-bold
-                        fs-6
-                      "
+                      class="form-control form-control-lg form-control-solid fw-bold fs-6"
                       name="currentpassword"
                       id="currentpassword"
                     />
@@ -1422,11 +1395,7 @@
                     >
                     <Field
                       type="password"
-                      class="
-                        form-control form-control-lg form-control-solid
-                        fw-bold
-                        fs-6
-                      "
+                      class="form-control form-control-lg form-control-solid fw-bold fs-6"
                       name="newpassword"
                       id="newpassword"
                     />
@@ -1446,11 +1415,7 @@
                     >
                     <Field
                       type="password"
-                      class="
-                        form-control form-control-lg form-control-solid
-                        fw-bold
-                        fs-6
-                      "
+                      class="form-control form-control-lg form-control-solid fw-bold fs-6"
                       name="confirmpassword"
                       id="confirmpassword"
                     />
@@ -1532,15 +1497,7 @@
       <!--begin::Card body-->
       <div class="card-body border-top p-9">
         <div
-          class="
-            notice
-            d-flex
-            bg-light-primary
-            rounded
-            border-primary border border-dashed
-            mb-9
-            p-6
-          "
+          class="notice d-flex bg-light-primary rounded border-primary border border-dashed mb-9 p-6"
         >
           <span class="svg-icon svg-icon-2tx svg-icon-primary me-4">
             <inline-svg src="media/icons/duotune/art/art006.svg" />
@@ -1716,10 +1673,7 @@
         <div class="card-body border-top px-9 py-9">
           <!--begin::Option-->
           <label
-            class="
-              form-check form-check-custom form-check-solid
-              align-items-start
-            "
+            class="form-check form-check-custom form-check-solid align-items-start"
           >
             <!--begin::Input-->
             <input
@@ -1746,10 +1700,7 @@
 
           <!--begin::Option-->
           <label
-            class="
-              form-check form-check-custom form-check-solid
-              align-items-start
-            "
+            class="form-check form-check-custom form-check-solid align-items-start"
           >
             <!--begin::Input-->
             <input
@@ -1777,10 +1728,7 @@
 
           <!--begin::Option-->
           <label
-            class="
-              form-check form-check-custom form-check-solid
-              align-items-start
-            "
+            class="form-check form-check-custom form-check-solid align-items-start"
           >
             <!--begin::Input-->
             <input
@@ -1808,10 +1756,7 @@
 
           <!--begin::Option-->
           <label
-            class="
-              form-check form-check-custom form-check-solid
-              align-items-start
-            "
+            class="form-check form-check-custom form-check-solid align-items-start"
           >
             <!--begin::Input-->
             <input
@@ -1840,10 +1785,7 @@
 
           <!--begin::Option-->
           <label
-            class="
-              form-check form-check-custom form-check-solid
-              align-items-start
-            "
+            class="form-check form-check-custom form-check-solid align-items-start"
           >
             <!--begin::Input-->
             <input
@@ -1871,10 +1813,7 @@
 
           <!--begin::Option-->
           <label
-            class="
-              form-check form-check-custom form-check-solid
-              align-items-start
-            "
+            class="form-check form-check-custom form-check-solid align-items-start"
           >
             <!--begin::Input-->
             <input
@@ -1903,10 +1842,7 @@
 
           <!--begin::Option-->
           <label
-            class="
-              form-check form-check-custom form-check-solid
-              align-items-start
-            "
+            class="form-check form-check-custom form-check-solid align-items-start"
           >
             <!--begin::Input-->
             <input
@@ -2237,15 +2173,7 @@
         <!--begin::Card body-->
         <div class="card-body border-top p-9">
           <div
-            class="
-              notice
-              d-flex
-              bg-light-warning
-              rounded
-              border-warning border border-dashed
-              mb-9
-              p-6
-            "
+            class="notice d-flex bg-light-warning rounded border-warning border border-dashed mb-9 p-6"
           >
             <span class="svg-icon svg-icon-2tx svg-icon-warning me-4">
               <inline-svg src="media/icons/duotune/general/gen044.svg" />

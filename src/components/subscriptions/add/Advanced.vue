@@ -70,12 +70,7 @@
                 <td class="text-end">
                   <button
                     type="button"
-                    class="
-                      btn btn-icon btn-flex btn-active-light-primary
-                      w-30px
-                      h-30px
-                      me-3
-                    "
+                    class="btn btn-icon btn-flex btn-active-light-primary w-30px h-30px me-3"
                     data-kt-action="field_remove"
                   >
                     <span class="svg-icon svg-icon-3">
@@ -132,15 +127,7 @@
 
       <!--begin::Option-->
       <div
-        class="
-          d-flex
-          flex-column
-          mb-5
-          fv-row
-          rounded-3
-          p-7
-          border border-dashed border-gray-300
-        "
+        class="d-flex flex-column mb-5 fv-row rounded-3 p-7 border border-dashed border-gray-300"
       >
         <!--begin::Label-->
         <div class="fs-5 fw-bolder form-label mb-3">
@@ -172,14 +159,7 @@
 
       <!--begin::Option-->
       <div
-        class="
-          d-flex
-          flex-column
-          fv-row
-          rounded-3
-          p-7
-          border border-dashed border-gray-300
-        "
+        class="d-flex flex-column fv-row rounded-3 p-7 border border-dashed border-gray-300"
       >
         <!--begin::Label-->
         <div class="fs-5 fw-bolder form-label mb-3">

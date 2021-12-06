@@ -98,9 +98,7 @@
                 <td class="text-end">
                   <a
                     href="#"
-                    class="
-                      btn btn-sm btn-icon btn-bg-light btn-active-color-primary
-                    "
+                    class="btn btn-sm btn-icon btn-bg-light btn-active-color-primary"
                   >
                     <span class="svg-icon svg-icon-2">
                       <inline-svg src="media/icons/duotune/arrows/arr064.svg" />

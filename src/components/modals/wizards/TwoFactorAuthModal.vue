@@ -53,13 +53,7 @@
                 v-model="value"
               />
               <label
-                class="
-                  btn btn-outline btn-outline-dashed btn-outline-default
-                  p-7
-                  d-flex
-                  align-items-center
-                  mb-5
-                "
+                class="btn btn-outline btn-outline-dashed btn-outline-default p-7 d-flex align-items-center mb-5"
                 for="kt_modal_two_factor_authentication_option_1"
               >
                 <span class="svg-icon svg-icon-4x me-4">
@@ -88,12 +82,7 @@
                 v-model="value"
               />
               <label
-                class="
-                  btn btn-outline btn-outline-dashed btn-outline-default
-                  p-7
-                  d-flex
-                  align-items-center
-                "
+                class="btn btn-outline btn-outline-dashed btn-outline-default p-7 d-flex align-items-center"
                 for="kt_modal_two_factor_authentication_option_2"
               >
                 <span class="svg-icon svg-icon-4x me-4">
@@ -159,15 +148,7 @@
             <!--end::Description-->
 
             <div
-              class="
-                notice
-                d-flex
-                bg-light-warning
-                rounded
-                border-warning border border-dashed
-                mb-10
-                p-6
-              "
+              class="notice d-flex bg-light-warning rounded border-warning border border-dashed mb-10 p-6"
             >
               <span class="svg-icon svg-icon-2tx svg-icon-warning me-4">
                 <inline-svg src="media/icons/duotune/general/gen044.svg" />

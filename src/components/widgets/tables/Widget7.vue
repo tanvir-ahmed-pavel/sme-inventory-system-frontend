@@ -14,14 +14,7 @@
         <ul class="nav">
           <li class="nav-item">
             <a
-              class="
-                nav-link
-                btn btn-sm btn-color-muted btn-active btn-active-light-primary
-                active
-                fw-bolder
-                px-4
-                me-1
-              "
+              class="nav-link btn btn-sm btn-color-muted btn-active btn-active-light-primary active fw-bolder px-4 me-1"
               data-bs-toggle="tab"
               href="#kt_table_widget_7_tab_1"
               >Month</a
@@ -30,13 +23,7 @@
 
           <li class="nav-item">
             <a
-              class="
-                nav-link
-                btn btn-sm btn-color-muted btn-active btn-active-light-primary
-                fw-bolder
-                px-4
-                me-1
-              "
+              class="nav-link btn btn-sm btn-color-muted btn-active btn-active-light-primary fw-bolder px-4 me-1"
               data-bs-toggle="tab"
               href="#kt_table_widget_7_tab_2"
               >Week</a
@@ -45,12 +32,7 @@
 
           <li class="nav-item">
             <a
-              class="
-                nav-link
-                btn btn-sm btn-color-muted btn-active btn-active-light-primary
-                fw-bolder
-                px-4
-              "
+              class="nav-link btn btn-sm btn-color-muted btn-active btn-active-light-primary fw-bolder px-4"
               data-bs-toggle="tab"
               href="#kt_table_widget_7_tab_3"
               >Day</a
@@ -108,13 +90,7 @@
                       <td>
                         <a
                           href="#"
-                          class="
-                            text-dark
-                            fw-bolder
-                            text-hover-primary
-                            mb-1
-                            fs-6
-                          "
+                          class="text-dark fw-bolder text-hover-primary mb-1 fs-6"
                           >{{ item1.info.title }}</a
                         >
                         <span class="text-muted fw-bold d-block fs-7">{{
@@ -140,13 +116,7 @@
                       <td class="text-end">
                         <a
                           href="#"
-                          class="
-                            btn
-                            btn-sm
-                            btn-icon
-                            btn-bg-light
-                            btn-active-color-primary
-                          "
+                          class="btn btn-sm btn-icon btn-bg-light btn-active-color-primary"
                         >
                           <i class="bi bi-three-dots fs-5"></i>
                         </a>

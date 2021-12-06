@@ -27,15 +27,7 @@
     <div class="card-body py-0">
       <!--begin::Table-->
       <table
-        class="
-          table
-          align-middle
-          table-row-dashed
-          fs-6
-          text-gray-600
-          fw-bold
-          gy-5
-        "
+        class="table align-middle table-row-dashed fs-6 text-gray-600 fw-bold gy-5"
         id="kt_table_customers_events"
       >
         <!--begin::Table body-->

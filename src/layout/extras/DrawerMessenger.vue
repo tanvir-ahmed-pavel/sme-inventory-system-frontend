@@ -22,14 +22,7 @@
           <div class="d-flex justify-content-center flex-column me-3">
             <a
               href="#"
-              class="
-                fs-4
-                fw-bolder
-                text-gray-900 text-hover-primary
-                me-1
-                mb-2
-                lh-1
-              "
+              class="fs-4 fw-bolder text-gray-900 text-hover-primary me-1 mb-2 lh-1"
               >Brian Cox</a
             >
 

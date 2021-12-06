@@ -217,13 +217,7 @@
 
                   <!--begin::CVV icon-->
                   <div
-                    class="
-                      position-absolute
-                      translate-middle-y
-                      top-50
-                      end-0
-                      me-3
-                    "
+                    class="position-absolute translate-middle-y top-50 end-0 me-3"
                   >
                     <span class="svg-icon svg-icon-2hx">
                       <inline-svg
@@ -259,9 +253,7 @@
 
               <!--begin::Switch-->
               <label
-                class="
-                  form-check form-switch form-check-custom form-check-solid
-                "
+                class="form-check form-switch form-check-custom form-check-solid"
               >
                 <input
                   class="form-check-input"

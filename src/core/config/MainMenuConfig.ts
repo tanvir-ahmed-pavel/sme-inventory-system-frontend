@@ -1,4 +1,5 @@
 const DocMenuConfig = [
+  // Top Pages
   {
     pages: [
       {
@@ -8,13 +9,260 @@ const DocMenuConfig = [
         fontIcon: "bi-app-indicator",
       },
       {
-        heading: "layoutBuilder",
-        route: "/builder",
-        svgIcon: "media/icons/duotune/general/gen019.svg",
-        fontIcon: "bi-layers",
+        sectionTitle: "gettingStarted",
+        route: "/getting-started",
+        svgIcon: "media/icons/duotune/coding/cod001.svg",
+        // fontIcon: "bi-layers",
+        sub: [
+          {
+            heading: "Items",
+            route: "dummy-route",
+          },
+          {
+            heading: "Customer List",
+            route: "dummy-route",
+          },
+          {
+            heading: "Supplier",
+            route: "dummy-route",
+          },
+          {
+            heading: "Chart of Accounts",
+            route: "dummy-route",
+          },
+          {
+            heading: "Truck Drivers",
+            route: "dummy-route",
+          },
+        ],
       },
     ],
   },
+
+  // ***Bottom Menus***
+
+  // Buying
+
+  {
+    heading: "buying",
+    route: "/buying",
+    pages: [
+      {
+        heading: "LC / Purchase Order",
+        route: "dummy-route",
+        svgIcon: "media/icons/duotune/finance/fin006.svg",
+        fontIcon: "bi-printer",
+      },
+      {
+        heading: "Purchase Invoice",
+        route: "dummy-route",
+        svgIcon: "media/icons/duotune/finance/fin006.svg",
+        fontIcon: "bi-printer",
+      },
+      {
+        heading: "Truck Loading For Purchase",
+        route: "dummy-route",
+        svgIcon: "media/icons/duotune/finance/fin006.svg",
+        fontIcon: "bi-printer",
+      },
+    ],
+  },
+
+  // Selling
+
+  {
+    heading: "selling",
+    route: "/selling",
+    pages: [
+      {
+        heading: "Sales Order",
+        route: "dummy-route",
+        svgIcon: "media/icons/duotune/finance/fin006.svg",
+        fontIcon: "bi-printer",
+      },
+      {
+        heading: "Sales Invoice",
+        route: "dummy-route",
+        svgIcon: "media/icons/duotune/finance/fin006.svg",
+        fontIcon: "bi-printer",
+      },
+      {
+        heading: "Projects",
+        route: "dummy-route",
+        svgIcon: "media/icons/duotune/finance/fin006.svg",
+        fontIcon: "bi-printer",
+      },
+      {
+        heading: "Truck Loading For Deliver",
+        route: "dummy-route",
+        svgIcon: "media/icons/duotune/finance/fin006.svg",
+        fontIcon: "bi-printer",
+      },
+    ],
+  },
+
+  // Accounting
+
+  {
+    heading: "accounting",
+    route: "/accounting",
+    pages: [
+      {
+        heading: "Sales Invoice",
+        route: "dummy-route",
+        svgIcon: "media/icons/duotune/finance/fin006.svg",
+        fontIcon: "bi-printer",
+      },
+      {
+        heading: "Payment Entry",
+        route: "dummy-route",
+        svgIcon: "media/icons/duotune/finance/fin006.svg",
+        fontIcon: "bi-printer",
+      },
+      {
+        heading: "Manage Generator",
+        route: "dummy-route",
+        svgIcon: "media/icons/duotune/finance/fin006.svg",
+        fontIcon: "bi-printer",
+      },
+    ],
+  },
+
+  // Stock
+
+  {
+    heading: "stock",
+    route: "/stock",
+    pages: [
+      {
+        heading: "Stock Entry",
+        route: "dummy-route",
+        svgIcon: "media/icons/duotune/finance/fin006.svg",
+        fontIcon: "bi-printer",
+      },
+      {
+        heading: "Item Delivery",
+        route: "dummy-route",
+        svgIcon: "media/icons/duotune/finance/fin006.svg",
+        fontIcon: "bi-printer",
+      },
+      {
+        heading: "Purchase Receipt",
+        route: "dummy-route",
+        svgIcon: "media/icons/duotune/finance/fin006.svg",
+        fontIcon: "bi-printer",
+      },
+      {
+        heading: "Stock Reconciliation",
+        route: "dummy-route",
+        svgIcon: "media/icons/duotune/finance/fin006.svg",
+        fontIcon: "bi-printer",
+      },
+    ],
+  },
+
+  // Reports
+
+  {
+    heading: "reports",
+    route: "/reports",
+    pages: [
+      {
+        heading: "Stock Ledger",
+        route: "dummy-route",
+        svgIcon: "media/icons/duotune/finance/fin006.svg",
+        fontIcon: "bi-printer",
+      },
+      {
+        heading: "Stock Balance",
+        route: "dummy-route",
+        svgIcon: "media/icons/duotune/finance/fin006.svg",
+        fontIcon: "bi-printer",
+      },
+      {
+        heading: "Accounts Receivable",
+        route: "dummy-route",
+        svgIcon: "media/icons/duotune/finance/fin006.svg",
+        fontIcon: "bi-printer",
+      },
+      {
+        heading: "Accounts Receivablen",
+        route: "dummy-route",
+        svgIcon: "media/icons/duotune/finance/fin006.svg",
+        fontIcon: "bi-printer",
+      },
+      {
+        heading: "Accounts Receivablen",
+        route: "dummy-route",
+        svgIcon: "media/icons/duotune/finance/fin006.svg",
+        fontIcon: "bi-printer",
+      },
+      {
+        heading: "Profit & Loss",
+        route: "dummy-route",
+        svgIcon: "media/icons/duotune/finance/fin006.svg",
+        fontIcon: "bi-printer",
+      },
+      {
+        heading: "Bank Statement",
+        route: "dummy-route",
+        svgIcon: "media/icons/duotune/finance/fin006.svg",
+        fontIcon: "bi-printer",
+      },
+      {
+        heading: "Cash Statement",
+        route: "dummy-route",
+        svgIcon: "media/icons/duotune/finance/fin006.svg",
+        fontIcon: "bi-printer",
+      },
+      {
+        heading: "A/C Receivable Summary",
+        route: "dummy-route",
+        svgIcon: "media/icons/duotune/finance/fin006.svg",
+        fontIcon: "bi-printer",
+      },
+      {
+        heading: "A/C Payable Summary",
+        route: "dummy-route",
+        svgIcon: "media/icons/duotune/finance/fin006.svg",
+        fontIcon: "bi-printer",
+      },
+      {
+        heading: "Sales Report",
+        route: "dummy-route",
+        svgIcon: "media/icons/duotune/finance/fin006.svg",
+        fontIcon: "bi-printer",
+      },
+      {
+        heading: "Purchase Report",
+        route: "dummy-route",
+        svgIcon: "media/icons/duotune/finance/fin006.svg",
+        fontIcon: "bi-printer",
+      },
+    ],
+  },
+
+  // Settings
+
+  {
+    heading: "settings",
+    route: "/settings",
+    pages: [
+      {
+        heading: "Stock settings",
+        route: "dummy-route",
+        svgIcon: "media/icons/duotune/finance/fin006.svg",
+        fontIcon: "bi-printer",
+      },
+      {
+        heading: "Warehouse",
+        route: "dummy-route",
+        svgIcon: "media/icons/duotune/finance/fin006.svg",
+        fontIcon: "bi-printer",
+      },
+    ],
+  },
+
   {
     heading: "craft",
     route: "/crafted",
@@ -223,6 +471,7 @@ const DocMenuConfig = [
       },
     ],
   },
+
   {
     heading: "apps",
     route: "/apps",
@@ -299,6 +548,19 @@ const DocMenuConfig = [
       },
     ],
   },
+
+  {
+    heading: "-------",
+    route: "/builder",
+    pages: [
+      {
+        heading: "layoutBuilder",
+        route: "/builder",
+        svgIcon: "media/icons/duotune/general/gen019.svg",
+        fontIcon: "bi-layers",
+      },
+    ]
+  }
 ];
 
 export default DocMenuConfig;

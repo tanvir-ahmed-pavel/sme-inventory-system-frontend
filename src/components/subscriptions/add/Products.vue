@@ -56,12 +56,7 @@
                 <!--begin::Delete-->
                 <a
                   href="#"
-                  class="
-                    btn btn-icon btn-flex btn-active-light-primary
-                    w-30px
-                    h-30px
-                    me-3
-                  "
+                  class="btn btn-icon btn-flex btn-active-light-primary w-30px h-30px me-3"
                   data-bs-toggle="tooltip"
                   title=""
                   data-kt-action="product_remove"
@@ -82,12 +77,7 @@
                 <!--begin::Delete-->
                 <a
                   href="#"
-                  class="
-                    btn btn-icon btn-flex btn-active-light-primary
-                    w-30px
-                    h-30px
-                    me-3
-                  "
+                  class="btn btn-icon btn-flex btn-active-light-primary w-30px h-30px me-3"
                   data-bs-toggle="tooltip"
                   title=""
                   data-kt-action="product_remove"
@@ -108,12 +98,7 @@
                 <!--begin::Delete-->
                 <a
                   href="#"
-                  class="
-                    btn btn-icon btn-flex btn-active-light-primary
-                    w-30px
-                    h-30px
-                    me-3
-                  "
+                  class="btn btn-icon btn-flex btn-active-light-primary w-30px h-30px me-3"
                   data-bs-toggle="tooltip"
                   title=""
                   data-kt-action="product_remove"

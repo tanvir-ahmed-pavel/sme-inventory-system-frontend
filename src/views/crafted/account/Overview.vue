@@ -138,14 +138,7 @@
       <!--end::Input group-->
 
       <div
-        class="
-          notice
-          d-flex
-          bg-light-warning
-          rounded
-          border-warning border border-dashed
-          p-6
-        "
+        class="notice d-flex bg-light-warning rounded border-warning border border-dashed p-6"
       >
         <span class="svg-icon svg-icon-2tx svg-icon-warning me-4">
           <inline-svg src="media/icons/duotune/general/gen044.svg" />

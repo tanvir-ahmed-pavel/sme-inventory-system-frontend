@@ -65,14 +65,7 @@
                 <td>
                   <a
                     href="#"
-                    class="
-                      text-dark
-                      fw-bolder
-                      text-hover-primary
-                      d-block
-                      mb-1
-                      fs-6
-                    "
+                    class="text-dark fw-bolder text-hover-primary d-block mb-1 fs-6"
                     >{{ item.price }}</a
                   >
                   <span class="text-muted fw-bold text-muted d-block fs-7"
@@ -83,14 +76,7 @@
                 <td>
                   <a
                     href="#"
-                    class="
-                      text-dark
-                      fw-bolder
-                      text-hover-primary
-                      d-block
-                      mb-1
-                      fs-6
-                    "
+                    class="text-dark fw-bolder text-hover-primary d-block mb-1 fs-6"
                     >{{ item.deposit }}</a
                   >
                   <span class="text-muted fw-bold text-muted d-block fs-7"
@@ -101,14 +87,7 @@
                 <td>
                   <a
                     href="#"
-                    class="
-                      text-dark
-                      fw-bolder
-                      text-hover-primary
-                      d-block
-                      mb-1
-                      fs-6
-                    "
+                    class="text-dark fw-bolder text-hover-primary d-block mb-1 fs-6"
                     >{{ item.agent.name }}</a
                   >
                   <span class="text-muted fw-bold text-muted d-block fs-7">{{
@@ -130,10 +109,7 @@
                 <td class="text-end">
                   <a
                     href="#"
-                    class="
-                      btn btn-icon btn-bg-light btn-active-color-primary btn-sm
-                      me-1
-                    "
+                    class="btn btn-icon btn-bg-light btn-active-color-primary btn-sm me-1"
                   >
                     <span class="svg-icon svg-icon-3">
                       <inline-svg
@@ -144,10 +120,7 @@
 
                   <a
                     href="#"
-                    class="
-                      btn btn-icon btn-bg-light btn-active-color-primary btn-sm
-                      me-1
-                    "
+                    class="btn btn-icon btn-bg-light btn-active-color-primary btn-sm me-1"
                   >
                     <span class="svg-icon svg-icon-3">
                       <inline-svg src="media/icons/duotune/art/art005.svg" />
@@ -156,9 +129,7 @@
 
                   <a
                     href="#"
-                    class="
-                      btn btn-icon btn-bg-light btn-active-color-primary btn-sm
-                    "
+                    class="btn btn-icon btn-bg-light btn-active-color-primary btn-sm"
                   >
                     <span class="svg-icon svg-icon-3">
                       <inline-svg

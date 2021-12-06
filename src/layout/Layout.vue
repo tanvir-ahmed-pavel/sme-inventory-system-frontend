@@ -12,17 +12,10 @@
     <!-- end:: Aside Left -->
 
     <div id="kt_wrapper" class="d-flex flex-column flex-row-fluid wrapper">
-      <KTHeader :title="pageTitle"></KTHeader>
+      <KTHeader :title="pageTitle" :breadcrumbs="breadcrumbs"></KTHeader>
 
       <!-- begin:: Content -->
       <div id="kt_content" class="content d-flex flex-column flex-column-fluid">
-        <!-- begin:: Content Head -->
-        <KTToolbar
-          v-if="subheaderDisplay"
-          :breadcrumbs="breadcrumbs"
-          :title="pageTitle"
-        />
-        <!-- end:: Content Head -->
 
         <!-- begin:: Content Body -->
         <div class="post d-flex flex-column-fluid">
@@ -44,10 +37,6 @@
   </div>
   <!-- end:: Body -->
   <KTScrollTop></KTScrollTop>
-  <KTExplore></KTExplore>
-  <KTDrawerMessenger></KTDrawerMessenger>
-  <KTUserMenu></KTUserMenu>
-  <KTCreateApp></KTCreateApp>
 </template>
 
 <script lang="ts">
@@ -58,13 +47,8 @@ import KTAside from "@/layout/aside/Aside.vue";
 import KTHeader from "@/layout/header/Header.vue";
 import KTFooter from "@/layout/footer/Footer.vue";
 import HtmlClass from "@/core/services/LayoutService";
-import KTToolbar from "@/layout/toolbar/Toolbar.vue";
 import KTScrollTop from "@/layout/extras/ScrollTop.vue";
-import KTUserMenu from "@/layout/header/partials/ActivityDrawer.vue";
 import KTLoader from "@/components/Loader.vue";
-import KTCreateApp from "@/components/modals/wizards/CreateAppModal.vue";
-import KTExplore from "@/layout/extras/Explore.vue";
-import KTDrawerMessenger from "@/layout/extras/DrawerMessenger.vue";
 import { Actions } from "@/store/enums/StoreEnums";
 import {
   MenuComponent,
@@ -89,12 +73,7 @@ export default defineComponent({
     KTAside,
     KTHeader,
     KTFooter,
-    KTToolbar,
     KTScrollTop,
-    KTCreateApp,
-    KTUserMenu,
-    KTExplore,
-    KTDrawerMessenger,
     KTLoader,
   },
   setup() {

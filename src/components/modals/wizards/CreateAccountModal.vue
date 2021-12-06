@@ -122,16 +122,7 @@
                           v-model="formData.accountType"
                         />
                         <label
-                          class="
-                            btn
-                            btn-outline
-                            btn-outline-dashed
-                            btn-outline-default
-                            p-7
-                            d-flex
-                            align-items-center
-                            mb-10
-                          "
+                          class="btn btn-outline btn-outline-dashed btn-outline-default p-7 d-flex align-items-center mb-10"
                           for="kt_create_account_form_account_type_personal"
                         >
                           <span class="svg-icon svg-icon-3x me-5">
@@ -167,15 +158,7 @@
                           v-model="formData.accountType"
                         />
                         <label
-                          class="
-                            btn
-                            btn-outline
-                            btn-outline-dashed
-                            btn-outline-default
-                            p-7
-                            d-flex
-                            align-items-center
-                          "
+                          class="btn btn-outline btn-outline-dashed btn-outline-default p-7 d-flex align-items-center"
                           for="kt_create_account_form_account_type_corporate"
                         >
                           <span class="svg-icon svg-icon-3x me-5">
@@ -254,14 +237,7 @@
                           v-model="formData.teamSize"
                         />
                         <label
-                          class="
-                            btn
-                            btn-outline
-                            btn-outline-dashed
-                            btn-outline-default
-                            w-100
-                            p-4
-                          "
+                          class="btn btn-outline btn-outline-dashed btn-outline-default w-100 p-4"
                           for="kt_one_one_select"
                         >
                           <span class="fw-bolder fs-3">1-1</span>
@@ -282,14 +258,7 @@
                           v-model="formData.teamSize"
                         />
                         <label
-                          class="
-                            btn
-                            btn-outline
-                            btn-outline-dashed
-                            btn-outline-default
-                            w-100
-                            p-4
-                          "
+                          class="btn btn-outline btn-outline-dashed btn-outline-default w-100 p-4"
                           for="kt_two_ten_select"
                         >
                           <span class="fw-bolder fs-3">2-10</span>
@@ -310,14 +279,7 @@
                           v-model="formData.teamSize"
                         />
                         <label
-                          class="
-                            btn
-                            btn-outline
-                            btn-outline-dashed
-                            btn-outline-default
-                            w-100
-                            p-4
-                          "
+                          class="btn btn-outline btn-outline-dashed btn-outline-default w-100 p-4"
                           for="kt_ten_fifty_select"
                         >
                           <span class="fw-bolder fs-3">10-50</span>
@@ -338,14 +300,7 @@
                           v-model="formData.teamSize"
                         />
                         <label
-                          class="
-                            btn
-                            btn-outline
-                            btn-outline-dashed
-                            btn-outline-default
-                            w-100
-                            p-4
-                          "
+                          class="btn btn-outline btn-outline-dashed btn-outline-default w-100 p-4"
                           for="kt_fifty_select"
                         >
                           <span class="fw-bolder fs-3">50+</span>
@@ -423,11 +378,7 @@
                           <!--begin::Description-->
                           <span class="d-flex flex-column">
                             <span
-                              class="
-                                fw-bolder
-                                text-gray-800 text-hover-primary
-                                fs-5
-                              "
+                              class="fw-bolder text-gray-800 text-hover-primary fs-5"
                               >Company Account</span
                             >
                             <span class="fs-6 fw-bold text-gray-400"
@@ -475,11 +426,7 @@
                           <!--begin::Description-->
                           <span class="d-flex flex-column">
                             <span
-                              class="
-                                fw-bolder
-                                text-gray-800 text-hover-primary
-                                fs-5
-                              "
+                              class="fw-bolder text-gray-800 text-hover-primary fs-5"
                               >Developer Account</span
                             >
                             <span class="fs-6 fw-bold text-gray-400"
@@ -528,11 +475,7 @@
                           <!--begin::Description-->
                           <span class="d-flex flex-column">
                             <span
-                              class="
-                                fw-bolder
-                                text-gray-800 text-hover-primary
-                                fs-5
-                              "
+                              class="fw-bolder text-gray-800 text-hover-primary fs-5"
                               >Testing Account</span
                             >
                             <span class="fs-6 fw-bold text-gray-400"
@@ -777,14 +720,7 @@
                   <div class="d-flex flex-column mb-7 fv-row">
                     <!--begin::Label-->
                     <label
-                      class="
-                        d-flex
-                        align-items-center
-                        fs-6
-                        fw-bold
-                        form-label
-                        mb-2
-                      "
+                      class="d-flex align-items-center fs-6 fw-bold form-label mb-2"
                     >
                       <span class="required">Name On Card</span>
                       <i
@@ -835,13 +771,7 @@
 
                       <!--begin::Card logos-->
                       <div
-                        class="
-                          position-absolute
-                          translate-middle-y
-                          top-50
-                          end-0
-                          me-5
-                        "
+                        class="position-absolute translate-middle-y top-50 end-0 me-5"
                       >
                         <img
                           src="media/svg/card-logos/visa.svg"
@@ -936,14 +866,7 @@
                     <div class="col-md-4 fv-row">
                       <!--begin::Label-->
                       <label
-                        class="
-                          d-flex
-                          align-items-center
-                          fs-6
-                          fw-bold
-                          form-label
-                          mb-2
-                        "
+                        class="d-flex align-items-center fs-6 fw-bold form-label mb-2"
                       >
                         <span class="required">CVV</span>
                         <i
@@ -969,13 +892,7 @@
 
                         <!--begin::CVV icon-->
                         <div
-                          class="
-                            position-absolute
-                            translate-middle-y
-                            top-50
-                            end-0
-                            me-3
-                          "
+                          class="position-absolute translate-middle-y top-50 end-0 me-3"
                         >
                           <span class="svg-icon svg-icon-2hx">
                             <inline-svg
@@ -1011,12 +928,7 @@
 
                     <!--begin::Switch-->
                     <label
-                      class="
-                        form-check
-                        form-switch
-                        form-check-custom
-                        form-check-solid
-                      "
+                      class="form-check form-switch form-check-custom form-check-solid"
                     >
                       <input
                         class="form-check-input"
@@ -1070,14 +982,7 @@
 
                     <!--begin::Alert-->
                     <div
-                      class="
-                        notice
-                        d-flex
-                        bg-light-warning
-                        rounded
-                        border-warning border border-dashed
-                        p-6
-                      "
+                      class="notice d-flex bg-light-warning rounded border-warning border border-dashed p-6"
                     >
                       <!--begin::Icon-->
                       <span class="svg-icon svg-icon-2tx svg-icon-warning me-4">
@@ -1147,11 +1052,7 @@
                     <span class="indicator-progress">
                       Please wait...
                       <span
-                        class="
-                          spinner-border spinner-border-sm
-                          align-middle
-                          ms-2
-                        "
+                        class="spinner-border spinner-border-sm align-middle ms-2"
                       ></span>
                     </span>
                   </button>

@@ -19,12 +19,7 @@
 
     <!--begin::Sidebar-->
     <div
-      class="
-        flex-column flex-lg-row-auto
-        w-100 w-lg-250px w-xl-300px
-        mb-10
-        order-1 order-lg-2
-      "
+      class="flex-column flex-lg-row-auto w-100 w-lg-250px w-xl-300px mb-10 order-1 order-lg-2"
     >
       <Summary></Summary>
     </div>

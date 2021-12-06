@@ -2,19 +2,7 @@
   <!--begin::Exolore drawer toggle-->
   <button
     id="kt_explore_toggle"
-    class="
-      btn btn-sm btn-white btn-active-primary
-      shadow-sm
-      position-fixed
-      px-5
-      fw-bolder
-      zindex-2
-      top-50
-      mt-10
-      end-0
-      transform-90
-      fs-6
-    "
+    class="btn btn-sm btn-white btn-active-primary shadow-sm position-fixed px-5 fw-bolder zindex-2 top-50 mt-10 end-0 transform-90 fs-6"
     data-bs-toggle="tooltip"
     data-bs-placement="right"
     data-bs-trigger="hover"
@@ -90,13 +78,7 @@
 
             <!--begin::License-->
             <div
-              class="
-                rounded
-                border border-dashed border-gray-300
-                py-4
-                px-6
-                mb-5
-              "
+              class="rounded border border-dashed border-gray-300 py-4 px-6 mb-5"
             >
               <div class="d-flex flex-stack">
                 <div class="d-flex flex-column">
@@ -130,13 +112,7 @@
 
             <!--begin::License-->
             <div
-              class="
-                rounded
-                border border-dashed border-gray-300
-                py-4
-                px-6
-                mb-5
-              "
+              class="rounded border border-dashed border-gray-300 py-4 px-6 mb-5"
             >
               <div class="d-flex flex-stack">
                 <div class="d-flex flex-column">
@@ -170,13 +146,7 @@
 
             <!--begin::License-->
             <div
-              class="
-                rounded
-                border border-dashed border-gray-300
-                py-4
-                px-6
-                mb-5
-              "
+              class="rounded border border-dashed border-gray-300 py-4 px-6 mb-5"
             >
               <div class="d-flex flex-stack">
                 <div class="d-flex flex-column">
@@ -247,14 +217,7 @@
                         >
                         <div
                           v-else
-                          class="
-                            badge badge-white
-                            px-6
-                            py-4
-                            fw-bold
-                            fs-base
-                            shadow
-                          "
+                          class="badge badge-white px-6 py-4 fw-bold fs-base shadow"
                         >
                           Coming soon
                         </div>

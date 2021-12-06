@@ -49,10 +49,7 @@
         <div class="d-flex">
           <!--begin::Options-->
           <label
-            class="
-              form-check form-check-sm form-check-custom form-check-solid
-              me-5
-            "
+            class="form-check form-check-sm form-check-custom form-check-solid me-5"
           >
             <el-checkbox type="checkbox" value="1" v-model="data.author" />
             <span class="form-check-label"> Author </span>
@@ -80,13 +77,7 @@
 
         <!--begin::Switch-->
         <div
-          class="
-            form-check
-            form-switch
-            form-switch-sm
-            form-check-custom
-            form-check-solid
-          "
+          class="form-check form-switch form-switch-sm form-check-custom form-check-solid"
         >
           <input
             class="form-check-input"

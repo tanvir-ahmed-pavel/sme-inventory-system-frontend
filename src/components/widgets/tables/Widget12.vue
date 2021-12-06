@@ -79,14 +79,7 @@
                 <td>
                   <a
                     href="#"
-                    class="
-                      text-dark
-                      fw-bolder
-                      text-hover-primary
-                      d-block
-                      mb-1
-                      fs-6
-                    "
+                    class="text-dark fw-bolder text-hover-primary d-block mb-1 fs-6"
                     >{{ item.earnings.value }}</a
                   >
                   <span class="text-muted fw-bold text-muted d-block fs-7"
@@ -97,14 +90,7 @@
                 <td>
                   <a
                     href="#"
-                    class="
-                      text-dark
-                      fw-bolder
-                      text-hover-primary
-                      d-block
-                      mb-1
-                      fs-6
-                    "
+                    class="text-dark fw-bolder text-hover-primary d-block mb-1 fs-6"
                     >{{ item.comission.value }}</a
                   >
                   <span class="text-muted fw-bold text-muted d-block fs-7">{{
@@ -115,14 +101,7 @@
                 <td>
                   <a
                     href="#"
-                    class="
-                      text-dark
-                      fw-bolder
-                      text-hover-primary
-                      d-block
-                      mb-1
-                      fs-6
-                    "
+                    class="text-dark fw-bolder text-hover-primary d-block mb-1 fs-6"
                     >{{ item.company.name }}</a
                   >
                   <span class="text-muted fw-bold text-muted d-block fs-7">{{
@@ -151,29 +130,14 @@
                 <td class="text-end">
                   <a
                     href="#"
-                    class="
-                      btn
-                      btn-bg-light
-                      btn-color-muted
-                      btn-active-color-primary
-                      btn-sm
-                      px-4
-                      me-2
-                    "
+                    class="btn btn-bg-light btn-color-muted btn-active-color-primary btn-sm px-4 me-2"
                   >
                     View
                   </a>
 
                   <a
                     href="#"
-                    class="
-                      btn
-                      btn-bg-light
-                      btn-color-muted
-                      btn-active-color-primary
-                      btn-sm
-                      px-4
-                    "
+                    class="btn btn-bg-light btn-color-muted btn-active-color-primary btn-sm px-4"
                   >
                     Edit
                   </a>

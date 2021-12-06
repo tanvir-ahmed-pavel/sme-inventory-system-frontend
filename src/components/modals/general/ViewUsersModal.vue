@@ -49,12 +49,7 @@
               <template v-for="(user, index) in users" :key="index">
                 <!--begin::User-->
                 <div
-                  class="
-                    d-flex
-                    flex-stack
-                    py-5
-                    border-bottom border-gray-300 border-bottom-dashed
-                  "
+                  class="d-flex flex-stack py-5 border-bottom border-gray-300 border-bottom-dashed"
                 >
                   <!--begin::Details-->
                   <div class="d-flex align-items-center">
@@ -76,13 +71,7 @@
                       <!--begin::Name-->
                       <a
                         href="#"
-                        class="
-                          d-flex
-                          align-items-center
-                          fs-5
-                          fw-bolder
-                          text-dark text-hover-primary
-                        "
+                        class="d-flex align-items-center fs-5 fw-bolder text-dark text-hover-primary"
                       >
                         {{ user.name }}
 

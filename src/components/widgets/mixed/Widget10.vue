@@ -3,14 +3,7 @@
   <div :class="widgetClasses" class="card">
     <!--begin::Body-->
     <div
-      class="
-        card-body
-        p-0
-        d-flex
-        justify-content-between
-        flex-column
-        overflow-hidden
-      "
+      class="card-body p-0 d-flex justify-content-between flex-column overflow-hidden"
     >
       <!--begin::Hidden-->
       <div class="d-flex flex-stack flex-wrap flex-grow-1 px-9 pt-9 pb-3">

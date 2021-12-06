@@ -23,15 +23,7 @@
 
       <!--begin::Text-->
       <div
-        class="
-          p-5
-          rounded
-          bg-light-primary
-          text-dark
-          fw-bold
-          mw-lg-400px
-          text-end
-        "
+        class="p-5 rounded bg-light-primary text-dark fw-bold mw-lg-400px text-end"
         data-kt-element="message-text"
       >
         {{ text }}

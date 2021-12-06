@@ -33,9 +33,7 @@
         <div class="ms-1">
           <button
             type="button"
-            class="
-              btn btn-sm btn-icon btn-color-primary btn-active-light-primary
-            "
+            class="btn btn-sm btn-icon btn-color-primary btn-active-light-primary"
             data-kt-menu-trigger="click"
             data-kt-menu-placement="bottom-end"
             data-kt-menu-flip="top-end"

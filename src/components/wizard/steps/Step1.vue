@@ -38,13 +38,7 @@
             id="kt_create_account_form_account_type_personal"
           />
           <label
-            class="
-              btn btn-outline btn-outline-dashed btn-outline-default
-              p-7
-              d-flex
-              align-items-center
-              mb-10
-            "
+            class="btn btn-outline btn-outline-dashed btn-outline-default p-7 d-flex align-items-center mb-10"
             for="kt_create_account_form_account_type_personal"
           >
             <span class="svg-icon svg-icon-3x me-5">
@@ -77,12 +71,7 @@
             id="kt_create_account_form_account_type_corporate"
           />
           <label
-            class="
-              btn btn-outline btn-outline-dashed btn-outline-default
-              p-7
-              d-flex
-              align-items-center
-            "
+            class="btn btn-outline btn-outline-dashed btn-outline-default p-7 d-flex align-items-center"
             for="kt_create_account_form_account_type_corporate"
           >
             <span class="svg-icon svg-icon-3x me-5">

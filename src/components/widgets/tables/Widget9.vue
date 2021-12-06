@@ -37,21 +37,14 @@
       <div class="table-responsive">
         <!--begin::Table-->
         <table
-          class="
-            table table-row-dashed table-row-gray-300
-            align-middle
-            gs-0
-            gy-4
-          "
+          class="table table-row-dashed table-row-gray-300 align-middle gs-0 gy-4"
         >
           <!--begin::Table head-->
           <thead>
             <tr class="fw-bolder text-muted">
               <th class="w-25px">
                 <div
-                  class="
-                    form-check form-check-sm form-check-custom form-check-solid
-                  "
+                  class="form-check form-check-sm form-check-custom form-check-solid"
                 >
                   <input class="form-check-input" type="checkbox" value="1" />
                 </div>
@@ -70,12 +63,7 @@
               <tr>
                 <td>
                   <div
-                    class="
-                      form-check
-                      form-check-sm
-                      form-check-custom
-                      form-check-solid
-                    "
+                    class="form-check form-check-sm form-check-custom form-check-solid"
                   >
                     <input
                       class="form-check-input widget-9-check"
@@ -141,10 +129,7 @@
                 <td class="text-end">
                   <a
                     href="#"
-                    class="
-                      btn btn-icon btn-bg-light btn-active-color-primary btn-sm
-                      me-1
-                    "
+                    class="btn btn-icon btn-bg-light btn-active-color-primary btn-sm me-1"
                   >
                     <span class="svg-icon svg-icon-3">
                       <inline-svg
@@ -155,10 +140,7 @@
 
                   <a
                     href="#"
-                    class="
-                      btn btn-icon btn-bg-light btn-active-color-primary btn-sm
-                      me-1
-                    "
+                    class="btn btn-icon btn-bg-light btn-active-color-primary btn-sm me-1"
                   >
                     <span class="svg-icon svg-icon-3">
                       <inline-svg src="media/icons/duotune/art/art005.svg" />
@@ -167,9 +149,7 @@
 
                   <a
                     href="#"
-                    class="
-                      btn btn-icon btn-bg-light btn-active-color-primary btn-sm
-                    "
+                    class="btn btn-icon btn-bg-light btn-active-color-primary btn-sm"
                   >
                     <span class="svg-icon svg-icon-3">
                       <inline-svg

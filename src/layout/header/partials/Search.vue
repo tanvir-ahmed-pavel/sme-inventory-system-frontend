@@ -26,11 +26,7 @@
     <template v-slot:content>
       <!--begin::Menu-->
       <div
-        class="
-          menu menu-sub menu-sub-dropdown menu-column
-          p-7
-          w-325px w-md-375px
-        "
+        class="menu menu-sub menu-sub-dropdown menu-column p-7 w-325px w-md-375px"
         data-kt-menu="true"
         id="kt-search-menu"
       >
@@ -40,13 +36,7 @@
           <form class="w-100 position-relative mb-3" autocomplete="off">
             <!--begin::Icon-->
             <span
-              class="
-                svg-icon svg-icon-2 svg-icon-lg-1 svg-icon-gray-500
-                position-absolute
-                top-50
-                translate-middle-y
-                ms-0
-              "
+              class="svg-icon svg-icon-2 svg-icon-lg-1 svg-icon-gray-500 position-absolute top-50 translate-middle-y ms-0"
             >
               <inline-svg src="media/icons/duotune/general/gen021.svg" />
             </span>
@@ -67,14 +57,7 @@
             <!--begin::Spinner-->
             <span
               v-if="loading"
-              class="
-                position-absolute
-                top-50
-                end-0
-                translate-middle-y
-                lh-0
-                me-1
-              "
+              class="position-absolute top-50 end-0 translate-middle-y lh-0 me-1"
             >
               <span
                 class="spinner-border h-15px w-15px align-middle text-gray-400"
@@ -86,14 +69,7 @@
             <span
               v-show="search.length && !loading"
               @click="reset()"
-              class="
-                btn btn-flush btn-active-color-primary
-                position-absolute
-                top-50
-                end-0
-                translate-middle-y
-                lh-0
-              "
+              class="btn btn-flush btn-active-color-primary position-absolute top-50 end-0 translate-middle-y lh-0"
             >
               <span class="svg-icon svg-icon-2 svg-icon-lg-1 me-0">
                 <inline-svg src="media/icons/duotune/arrows/arr061.svg" />
@@ -174,9 +150,7 @@
                   checked="checked"
                 />
                 <span
-                  class="
-                    btn btn-sm btn-color-muted btn-active btn-active-primary
-                  "
+                  class="btn btn-sm btn-color-muted btn-active btn-active-primary"
                 >
                   All
                 </span>
@@ -192,10 +166,7 @@
                   value="users"
                 />
                 <span
-                  class="
-                    btn btn-sm btn-color-muted btn-active btn-active-primary
-                    px-4
-                  "
+                  class="btn btn-sm btn-color-muted btn-active btn-active-primary px-4"
                 >
                   Users
                 </span>
@@ -211,10 +182,7 @@
                   value="orders"
                 />
                 <span
-                  class="
-                    btn btn-sm btn-color-muted btn-active btn-active-primary
-                    px-4
-                  "
+                  class="btn btn-sm btn-color-muted btn-active btn-active-primary px-4"
                 >
                   Orders
                 </span>
@@ -230,10 +198,7 @@
                   value="projects"
                 />
                 <span
-                  class="
-                    btn btn-sm btn-color-muted btn-active btn-active-primary
-                    px-4
-                  "
+                  class="btn btn-sm btn-color-muted btn-active btn-active-primary px-4"
                 >
                   Projects
                 </span>
@@ -282,9 +247,7 @@
                   checked="checked"
                 />
                 <span
-                  class="
-                    btn btn-sm btn-color-muted btn-active btn-active-primary
-                  "
+                  class="btn btn-sm btn-color-muted btn-active btn-active-primary"
                 >
                   Has attachment
                 </span>
@@ -300,10 +263,7 @@
                   value="any"
                 />
                 <span
-                  class="
-                    btn btn-sm btn-color-muted btn-active btn-active-primary
-                    px-4
-                  "
+                  class="btn btn-sm btn-color-muted btn-active btn-active-primary px-4"
                 >
                   Any
                 </span>
@@ -368,12 +328,7 @@
           <div class="d-flex justify-content-end">
             <button
               @click="state = 'main'"
-              class="
-                btn btn-sm btn-white
-                fw-bolder
-                btn-active-light-primary
-                me-2
-              "
+              class="btn btn-sm btn-white fw-bolder btn-active-light-primary me-2"
             >
               Cancel
             </button>
@@ -391,14 +346,7 @@
           <!--begin::Input group-->
           <div class="pb-4 border-bottom">
             <label
-              class="
-                form-check
-                form-switch
-                form-switch-sm
-                form-check-custom
-                form-check-solid
-                flex-stack
-              "
+              class="form-check form-switch form-switch-sm form-check-custom form-check-solid flex-stack"
             >
               <span
                 class="form-check-label text-gray-700 fs-6 fw-bold ms-0 me-2"
@@ -419,14 +367,7 @@
           <!--begin::Input group-->
           <div class="py-4 border-bottom">
             <label
-              class="
-                form-check
-                form-switch
-                form-switch-sm
-                form-check-custom
-                form-check-solid
-                flex-stack
-              "
+              class="form-check form-switch form-switch-sm form-check-custom form-check-solid flex-stack"
             >
               <span
                 class="form-check-label text-gray-700 fs-6 fw-bold ms-0 me-2"
@@ -446,14 +387,7 @@
           <!--begin::Input group-->
           <div class="py-4 border-bottom">
             <label
-              class="
-                form-check
-                form-switch
-                form-switch-sm
-                form-check-custom
-                form-check-solid
-                flex-stack
-              "
+              class="form-check form-switch form-switch-sm form-check-custom form-check-solid flex-stack"
             >
               <span
                 class="form-check-label text-gray-700 fs-6 fw-bold ms-0 me-2"
@@ -468,14 +402,7 @@
           <!--begin::Input group-->
           <div class="py-4 border-bottom">
             <label
-              class="
-                form-check
-                form-switch
-                form-switch-sm
-                form-check-custom
-                form-check-solid
-                flex-stack
-              "
+              class="form-check form-switch form-switch-sm form-check-custom form-check-solid flex-stack"
             >
               <span
                 class="form-check-label text-gray-700 fs-6 fw-bold ms-0 me-2"
@@ -495,14 +422,7 @@
           <!--begin::Input group-->
           <div class="py-4 border-bottom">
             <label
-              class="
-                form-check
-                form-switch
-                form-switch-sm
-                form-check-custom
-                form-check-solid
-                flex-stack
-              "
+              class="form-check form-switch form-switch-sm form-check-custom form-check-solid flex-stack"
             >
               <span
                 class="form-check-label text-gray-700 fs-6 fw-bold ms-0 me-2"
@@ -518,12 +438,7 @@
           <div class="d-flex justify-content-end pt-7">
             <div
               @click="state = 'main'"
-              class="
-                btn btn-sm btn-white
-                fw-bolder
-                btn-active-light-primary
-                me-2
-              "
+              class="btn btn-sm btn-white fw-bolder btn-active-light-primary me-2"
             >
               Cancel
             </div>

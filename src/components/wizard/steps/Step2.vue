@@ -35,11 +35,7 @@
         <div class="col">
           <!--begin::Option-->
           <label
-            class="
-              btn btn-outline btn-outline-dashed btn-outline-default
-              w-100
-              p-4
-            "
+            class="btn btn-outline btn-outline-dashed btn-outline-default w-100 p-4"
           >
             <Field
               type="radio"
@@ -57,12 +53,7 @@
         <div class="col">
           <!--begin::Option-->
           <label
-            class="
-              btn btn-outline btn-outline-dashed btn-outline-default
-              w-100
-              p-4
-              active
-            "
+            class="btn btn-outline btn-outline-dashed btn-outline-default w-100 p-4 active"
           >
             <Field
               type="radio"
@@ -80,11 +71,7 @@
         <div class="col">
           <!--begin::Option-->
           <label
-            class="
-              btn btn-outline btn-outline-dashed btn-outline-default
-              w-100
-              p-4
-            "
+            class="btn btn-outline btn-outline-dashed btn-outline-default w-100 p-4"
           >
             <Field
               type="radio"
@@ -102,11 +89,7 @@
         <div class="col">
           <!--begin::Option-->
           <label
-            class="
-              btn btn-outline btn-outline-dashed btn-outline-default
-              w-100
-              p-4
-            "
+            class="btn btn-outline btn-outline-dashed btn-outline-default w-100 p-4"
           >
             <Field
               type="radio"

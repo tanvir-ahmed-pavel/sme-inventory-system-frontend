@@ -3,15 +3,7 @@
     <div class="table-responsive">
       <table
         :class="[loading && 'overlay overlay-block']"
-        class="
-          table
-          align-middle
-          table-row-dashed
-          fs-6
-          gy-5
-          dataTable
-          no-footer
-        "
+        class="table align-middle table-row-dashed fs-6 gy-5 dataTable no-footer"
         id="kt_customers_table"
         role="grid"
       >
@@ -91,12 +83,7 @@
 
     <div class="row">
       <div
-        class="
-          col-sm-12 col-md-5
-          d-flex
-          align-items-center
-          justify-content-center justify-content-md-start
-        "
+        class="col-sm-12 col-md-5 d-flex align-items-center justify-content-center justify-content-md-start"
       >
         <div
           v-if="enableItemsPerPageDropdown"
@@ -118,12 +105,7 @@
         </div>
       </div>
       <div
-        class="
-          col-sm-12 col-md-7
-          d-flex
-          align-items-center
-          justify-content-center justify-content-md-end
-        "
+        class="col-sm-12 col-md-7 d-flex align-items-center justify-content-center justify-content-md-end"
       >
         <el-pagination
           v-model:current-page="pagination.page"

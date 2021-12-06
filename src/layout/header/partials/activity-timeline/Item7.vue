@@ -48,16 +48,7 @@
       <!--begin::Timeline details-->
       <div class="overflow-auto pb-5">
         <div
-          class="
-            notice
-            d-flex
-            bg-light-primary
-            rounded
-            border-primary border border-dashed
-            min-w-lg-600px
-            flex-shrink-0
-            p-6
-          "
+          class="notice d-flex bg-light-primary rounded border-primary border border-dashed min-w-lg-600px flex-shrink-0 p-6"
         >
           <!--begin::Icon-->
           <span class="svg-icon svg-icon-2tx svg-icon-primary me-4">

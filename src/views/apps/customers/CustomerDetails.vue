@@ -32,13 +32,7 @@
             <div class="d-flex flex-wrap flex-center">
               <!--begin::Stats-->
               <div
-                class="
-                  border border-gray-300 border-dashed
-                  rounded
-                  py-3
-                  px-3
-                  mb-3
-                "
+                class="border border-gray-300 border-dashed rounded py-3 px-3 mb-3"
               >
                 <div class="fs-4 fw-bolder text-gray-700">
                   <span class="w-75px">6,900</span>
@@ -52,14 +46,7 @@
 
               <!--begin::Stats-->
               <div
-                class="
-                  border border-gray-300 border-dashed
-                  rounded
-                  py-3
-                  px-3
-                  mx-4
-                  mb-3
-                "
+                class="border border-gray-300 border-dashed rounded py-3 px-3 mx-4 mb-3"
               >
                 <div class="fs-4 fw-bolder text-gray-700">
                   <span class="w-50px">130</span>
@@ -73,13 +60,7 @@
 
               <!--begin::Stats-->
               <div
-                class="
-                  border border-gray-300 border-dashed
-                  rounded
-                  py-3
-                  px-3
-                  mb-3
-                "
+                class="border border-gray-300 border-dashed rounded py-3 px-3 mb-3"
               >
                 <div class="fs-4 fw-bolder text-gray-700">
                   <span class="w-50px">500</span>
@@ -189,15 +170,7 @@
         <!--begin::Card body-->
         <div class="card-body pt-2">
           <div
-            class="
-              notice
-              d-flex
-              bg-light-primary
-              rounded
-              border-primary border border-dashed
-              mb-9
-              p-6
-            "
+            class="notice d-flex bg-light-primary rounded border-primary border border-dashed mb-9 p-6"
           >
             <span class="svg-icon svg-icon-2tx svg-icon-primary me-4">
               <inline-svg src="media/icons/duotune/art/art006.svg" />
@@ -243,13 +216,7 @@
               <div class="d-flex justify-content-end">
                 <!--begin::Switch-->
                 <label
-                  class="
-                    form-check
-                    form-switch
-                    form-switch-sm
-                    form-check-custom
-                    form-check-solid
-                  "
+                  class="form-check form-switch form-switch-sm form-check-custom form-check-solid"
                 >
                   <!--begin::Input-->
                   <input
@@ -300,13 +267,7 @@
               <div class="d-flex justify-content-end">
                 <!--begin::Switch-->
                 <label
-                  class="
-                    form-check
-                    form-switch
-                    form-switch-sm
-                    form-check-custom
-                    form-check-solid
-                  "
+                  class="form-check form-switch form-switch-sm form-check-custom form-check-solid"
                 >
                   <!--begin::Input-->
                   <input
@@ -356,13 +317,7 @@
               <div class="d-flex justify-content-end">
                 <!--begin::Switch-->
                 <label
-                  class="
-                    form-check
-                    form-switch
-                    form-switch-sm
-                    form-check-custom
-                    form-check-solid
-                  "
+                  class="form-check form-switch form-switch-sm form-check-custom form-check-solid"
                 >
                   <!--begin::Input-->
                   <input
@@ -404,13 +359,7 @@
     <div class="flex-lg-row-fluid ms-lg-15">
       <!--begin:::Tabs-->
       <ul
-        class="
-          nav nav-custom nav-tabs nav-line-tabs nav-line-tabs-2x
-          border-0
-          fs-4
-          fw-bold
-          mb-8
-        "
+        class="nav nav-custom nav-tabs nav-line-tabs nav-line-tabs-2x border-0 fs-4 fw-bold mb-8"
       >
         <!--begin:::Tab item-->
         <li class="nav-item">

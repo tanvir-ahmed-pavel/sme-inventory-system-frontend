@@ -9,11 +9,7 @@
         <button
           type="button"
           :class="`btn-active-color-${widgetColor}`"
-          class="
-            btn btn-sm btn-icon btn-color-white btn-active-white
-            border-0
-            me-n3
-          "
+          class="btn btn-sm btn-icon btn-color-white btn-active-white border-0 me-n3"
           data-kt-menu-trigger="click"
           data-kt-menu-placement="bottom-end"
           data-kt-menu-flip="top-end"

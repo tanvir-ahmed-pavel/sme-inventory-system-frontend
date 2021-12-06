@@ -37,15 +37,7 @@
 
         <!--begin::Image-->
         <div
-          class="
-            flex-grow-1
-            bgi-no-repeat
-            bgi-size-contain
-            bgi-position-x-center
-            bgi-position-y-bottom
-            card-rounded-bottom
-            h-200px
-          "
+          class="flex-grow-1 bgi-no-repeat bgi-size-contain bgi-position-x-center bgi-position-y-bottom card-rounded-bottom h-200px"
           style="background-image: url('media/illustrations/sketchy-1/8.png')"
         ></div>
         <!--end::Image-->

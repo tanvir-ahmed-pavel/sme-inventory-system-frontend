@@ -92,11 +92,7 @@
             <div class="row row-cols-lg-2 g-10">
               <div class="col">
                 <div
-                  class="
-                    fv-row
-                    mb-9
-                    fv-plugins-icon-container fv-plugins-bootstrap5-row-valid
-                  "
+                  class="fv-row mb-9 fv-plugins-icon-container fv-plugins-bootstrap5-row-valid"
                 >
                   <!--begin::Label-->
                   <label class="fs-6 fw-bold mb-2 required"
@@ -121,11 +117,7 @@
             <div class="row row-cols-lg-2 g-10">
               <div class="col">
                 <div
-                  class="
-                    fv-row
-                    mb-9
-                    fv-plugins-icon-container fv-plugins-bootstrap5-row-valid
-                  "
+                  class="fv-row mb-9 fv-plugins-icon-container fv-plugins-bootstrap5-row-valid"
                 >
                   <!--begin::Label-->
                   <label class="fs-6 fw-bold mb-2 required"

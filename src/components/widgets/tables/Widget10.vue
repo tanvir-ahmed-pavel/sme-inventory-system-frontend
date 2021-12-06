@@ -33,12 +33,7 @@
       <div class="table-responsive">
         <!--begin::Table-->
         <table
-          class="
-            table table-row-dashed table-row-gray-300
-            align-middle
-            gs-0
-            gy-4
-          "
+          class="table table-row-dashed table-row-gray-300 align-middle gs-0 gy-4"
         >
           <!--begin::Table head-->
           <thead>
@@ -85,13 +80,7 @@
 
                       <a
                         href="#"
-                        class="
-                          text-muted text-hover-primary
-                          fw-bold
-                          text-muted
-                          d-block
-                          fs-7
-                        "
+                        class="text-muted text-hover-primary fw-bold text-muted d-block fs-7"
                       >
                         <span class="text-dark">Email</span>:
                         {{ item.user.email }}
@@ -104,14 +93,7 @@
                 <td class="text-end">
                   <a
                     href="#"
-                    class="
-                      text-dark
-                      fw-bolder
-                      text-hover-primary
-                      d-block
-                      mb-1
-                      fs-6
-                    "
+                    class="text-dark fw-bolder text-hover-primary d-block mb-1 fs-6"
                     >{{ item.price }}</a
                   >
                   <span class="text-muted fw-bold text-muted d-block fs-7"
@@ -134,10 +116,7 @@
                 <td class="text-end">
                   <a
                     href="#"
-                    class="
-                      btn btn-icon btn-bg-light btn-active-color-primary btn-sm
-                      me-1
-                    "
+                    class="btn btn-icon btn-bg-light btn-active-color-primary btn-sm me-1"
                   >
                     <span class="svg-icon svg-icon-3">
                       <inline-svg
@@ -148,10 +127,7 @@
 
                   <a
                     href="#"
-                    class="
-                      btn btn-icon btn-bg-light btn-active-color-primary btn-sm
-                      me-1
-                    "
+                    class="btn btn-icon btn-bg-light btn-active-color-primary btn-sm me-1"
                   >
                     <span class="svg-icon svg-icon-3">
                       <inline-svg src="media/icons/duotune/art/art005.svg" />
@@ -160,9 +136,7 @@
 
                   <a
                     href="#"
-                    class="
-                      btn btn-icon btn-bg-light btn-active-color-primary btn-sm
-                    "
+                    class="btn btn-icon btn-bg-light btn-active-color-primary btn-sm"
                   >
                     <span class="svg-icon svg-icon-3">
                       <inline-svg

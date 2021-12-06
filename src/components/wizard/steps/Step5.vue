@@ -30,14 +30,7 @@
 
       <!--begin::Alert-->
       <div
-        class="
-          notice
-          d-flex
-          bg-light-warning
-          rounded
-          border-warning border border-dashed
-          p-6
-        "
+        class="notice d-flex bg-light-warning rounded border-warning border border-dashed p-6"
       >
         <!--begin::Icon-->
         <span class="svg-icon svg-icon-2tx svg-icon-warning me-4">

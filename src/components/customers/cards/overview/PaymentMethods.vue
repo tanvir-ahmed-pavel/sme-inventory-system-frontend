@@ -116,18 +116,7 @@
             </a>
             <!--begin::Menu-->
             <div
-              class="
-                menu
-                menu-sub
-                menu-sub-dropdown
-                menu-column
-                menu-rounded
-                menu-gray-600
-                menu-state-bg-light-primary
-                fw-bold
-                w-150px
-                py-3
-              "
+              class="menu menu-sub menu-sub-dropdown menu-column menu-rounded menu-gray-600 menu-state-bg-light-primary fw-bold w-150px py-3"
               data-kt-menu="true"
             >
               <!--begin::Menu item-->
@@ -329,18 +318,7 @@
             </a>
             <!--begin::Menu-->
             <div
-              class="
-                menu
-                menu-sub
-                menu-sub-dropdown
-                menu-column
-                menu-rounded
-                menu-gray-600
-                menu-state-bg-light-primary
-                fw-bold
-                w-150px
-                py-3
-              "
+              class="menu menu-sub menu-sub-dropdown menu-column menu-rounded menu-gray-600 menu-state-bg-light-primary fw-bold w-150px py-3"
               data-kt-menu="true"
             >
               <!--begin::Menu item-->
@@ -544,18 +522,7 @@
             </a>
             <!--begin::Menu-->
             <div
-              class="
-                menu
-                menu-sub
-                menu-sub-dropdown
-                menu-column
-                menu-rounded
-                menu-gray-600
-                menu-state-bg-light-primary
-                fw-bold
-                w-150px
-                py-3
-              "
+              class="menu menu-sub menu-sub-dropdown menu-column menu-rounded menu-gray-600 menu-state-bg-light-primary fw-bold w-150px py-3"
               data-kt-menu="true"
             >
               <!--begin::Menu item-->

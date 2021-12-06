@@ -17,17 +17,7 @@
             >
             <div
               v-if="online"
-              class="
-                symbol-badge
-                bg-success
-                start-100
-                top-100
-                border-4
-                h-15px
-                w-15px
-                ms-n3
-                mt-n3
-              "
+              class="symbol-badge bg-success start-100 top-100 border-4 h-15px w-15px ms-n3 mt-n3"
             ></div>
           </div>
         </div>
@@ -49,15 +39,7 @@
         <div class="d-flex flex-center flex-wrap mb-5">
           <!--begin::Stats-->
           <div
-            class="
-              border border-gray-300 border-dashed
-              rounded
-              min-w-125px
-              py-3
-              px-4
-              mx-3
-              mb-3
-            "
+            class="border border-gray-300 border-dashed rounded min-w-125px py-3 px-4 mx-3 mb-3"
           >
             <div class="fs-6 fw-bolder text-gray-700">{{ avgEarnings }}</div>
             <div class="fw-bold text-gray-400">Avg. Earnings</div>
@@ -66,15 +48,7 @@
 
           <!--begin::Stats-->
           <div
-            class="
-              border border-gray-300 border-dashed
-              rounded
-              min-w-125px
-              py-3
-              mx-3
-              px-4
-              mb-3
-            "
+            class="border border-gray-300 border-dashed rounded min-w-125px py-3 mx-3 px-4 mb-3"
           >
             <div class="fs-6 fw-bolder text-gray-700">{{ totalSales }}</div>
             <div class="fw-bold text-gray-400">Total Sales</div>

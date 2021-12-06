@@ -23,12 +23,7 @@
           <li class="nav-item" role="presentation">
             <a
               id="kt_activity_today_tab"
-              class="
-                nav-link
-                justify-content-center
-                text-active-gray-800
-                active
-              "
+              class="nav-link justify-content-center text-active-gray-800 active"
               data-bs-toggle="tab"
               role="tab"
               href="#kt_activity_today"
@@ -61,11 +56,7 @@
           <li class="nav-item" role="presentation">
             <a
               id="kt_activity_year_tab"
-              class="
-                nav-link
-                justify-content-center
-                text-active-gray-800 text-hover-gray-800
-              "
+              class="nav-link justify-content-center text-active-gray-800 text-hover-gray-800"
               data-bs-toggle="tab"
               role="tab"
               href="#kt_activity_year"

@@ -134,14 +134,7 @@
             <thead>
               <!--begin::Table row-->
               <tr
-                class="
-                  border-bottom border-gray-200
-                  text-start text-gray-400
-                  fw-bolder
-                  fs-7
-                  text-uppercase
-                  gs-0
-                "
+                class="border-bottom border-gray-200 text-start text-gray-400 fw-bolder fs-7 text-uppercase gs-0"
               >
                 <th class="min-w-150px">Product</th>
                 <th class="min-w-125px">Subscription ID</th>

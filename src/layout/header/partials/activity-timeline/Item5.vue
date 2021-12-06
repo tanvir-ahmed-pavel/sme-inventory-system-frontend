@@ -50,14 +50,7 @@
       <!--begin::Timeline details-->
       <div class="overflow-auto pb-5">
         <div
-          class="
-            d-flex
-            align-items-center
-            border border-dashed border-gray-300
-            rounded
-            min-w-700px
-            p-7
-          "
+          class="d-flex align-items-center border border-dashed border-gray-300 rounded min-w-700px p-7"
         >
           <!--begin::Item-->
           <div class="overlay me-10">

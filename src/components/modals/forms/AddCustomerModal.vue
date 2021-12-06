@@ -529,12 +529,7 @@
 
                     <!--begin::Switch-->
                     <label
-                      class="
-                        form-check
-                        form-switch
-                        form-check-custom
-                        form-check-solid
-                      "
+                      class="form-check form-switch form-check-custom form-check-solid"
                     >
                       <!--begin::Input-->
                       <input

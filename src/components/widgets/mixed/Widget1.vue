@@ -17,11 +17,7 @@
             <button
               type="button"
               :class="`btn-active-color-${widgetColor}`"
-              class="
-                btn btn-sm btn-icon btn-color-white btn-active-white
-                border-0
-                me-n3
-              "
+              class="btn btn-sm btn-icon btn-color-white btn-active-white border-0 me-n3"
               data-kt-menu-trigger="click"
               data-kt-menu-placement="bottom-end"
               data-kt-menu-flip="top-end"
@@ -47,17 +43,7 @@
 
       <!--begin::Items-->
       <div
-        class="
-          shadow-xs
-          card-rounded
-          mx-9
-          mb-9
-          px-6
-          py-9
-          position-relative
-          z-index-1
-          bg-white
-        "
+        class="shadow-xs card-rounded mx-9 mb-9 px-6 py-9 position-relative z-index-1 bg-white"
         style="margin-top: -100px"
       >
         <template v-for="(item, index) in items" :key="index">

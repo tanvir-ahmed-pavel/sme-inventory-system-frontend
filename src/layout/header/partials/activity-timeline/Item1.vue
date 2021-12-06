@@ -51,27 +51,12 @@
       <div class="overflow-auto pb-5">
         <!--begin::Record-->
         <div
-          class="
-            d-flex
-            align-items-center
-            border border-dashed border-gray-300
-            rounded
-            min-w-750px
-            px-7
-            py-3
-            mb-5
-          "
+          class="d-flex align-items-center border border-dashed border-gray-300 rounded min-w-750px px-7 py-3 mb-5"
         >
           <!--begin::Title-->
           <a
             href="#"
-            class="
-              fs-5
-              text-dark text-hover-primary
-              fw-bold
-              w-375px
-              min-w-200px
-            "
+            class="fs-5 text-dark text-hover-primary fw-bold w-375px min-w-200px"
             >Meeting with customer</a
           >
           <!--end::Title-->
@@ -84,12 +69,7 @@
 
           <!--begin::Users-->
           <div
-            class="
-              symbol-group symbol-hover
-              flex-nowrap flex-grow-1
-              min-w-100px
-              pe-2
-            "
+            class="symbol-group symbol-hover flex-nowrap flex-grow-1 min-w-100px pe-2"
           >
             <!--begin::User-->
             <div class="symbol symbol-circle symbol-25px">
@@ -106,13 +86,7 @@
             <!--begin::User-->
             <div class="symbol symbol-circle symbol-25px">
               <div
-                class="
-                  symbol-label
-                  fs-8
-                  fw-bold
-                  bg-primary
-                  text-inverse-primary
-                "
+                class="symbol-label fs-8 fw-bold bg-primary text-inverse-primary"
               >
                 A
               </div>
@@ -137,27 +111,12 @@
 
         <!--begin::Record-->
         <div
-          class="
-            d-flex
-            align-items-center
-            border border-dashed border-gray-300
-            rounded
-            min-w-750px
-            px-7
-            py-3
-            mb-0
-          "
+          class="d-flex align-items-center border border-dashed border-gray-300 rounded min-w-750px px-7 py-3 mb-0"
         >
           <!--begin::Title-->
           <a
             href="#"
-            class="
-              fs-5
-              text-dark text-hover-primary
-              fw-bold
-              w-375px
-              min-w-200px
-            "
+            class="fs-5 text-dark text-hover-primary fw-bold w-375px min-w-200px"
             >Project Delivery Preparation</a
           >
           <!--end::Title-->
@@ -172,11 +131,7 @@
 
           <!--begin::Users-->
           <div
-            class="
-              symbol-group symbol-hover
-              flex-nowrap flex-grow-1
-              min-w-100px
-            "
+            class="symbol-group symbol-hover flex-nowrap flex-grow-1 min-w-100px"
           >
             <!--begin::User-->
             <div class="symbol symbol-circle symbol-25px">
@@ -187,13 +142,7 @@
             <!--begin::User-->
             <div class="symbol symbol-circle symbol-25px">
               <div
-                class="
-                  symbol-label
-                  fs-8
-                  fw-bold
-                  bg-success
-                  text-inverse-primary
-                "
+                class="symbol-label fs-8 fw-bold bg-success text-inverse-primary"
               >
                 B
               </div>

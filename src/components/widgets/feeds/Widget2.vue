@@ -29,9 +29,7 @@
         <div class="my-0">
           <button
             type="button"
-            class="
-              btn btn-sm btn-icon btn-color-primary btn-active-light-primary
-            "
+            class="btn btn-sm btn-icon btn-color-primary btn-active-light-primary"
             data-kt-menu-trigger="click"
             data-kt-menu-placement="bottom-end"
             data-kt-menu-flip="top-end"
@@ -60,12 +58,7 @@
         <div class="d-flex align-items-center mb-5">
           <a
             href="#"
-            class="
-              btn btn-sm btn-light btn-color-muted btn-active-light-success
-              px-4
-              py-2
-              me-4
-            "
+            class="btn btn-sm btn-light btn-color-muted btn-active-light-success px-4 py-2 me-4"
           >
             <span class="svg-icon svg-icon-3">
               <inline-svg src="media/icons/duotune/communication/com012.svg" />
@@ -75,11 +68,7 @@
 
           <a
             href="#"
-            class="
-              btn btn-sm btn-light btn-color-muted btn-active-light-danger
-              px-4
-              py-2
-            "
+            class="btn btn-sm btn-light btn-color-muted btn-active-light-danger px-4 py-2"
           >
             <span class="svg-icon svg-icon-3">
               <inline-svg src="media/icons/duotune/general/gen030.svg" />

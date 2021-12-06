@@ -24,15 +24,7 @@
         <!--begin::Menu-->
         <button
           type="button"
-          class="
-            btn
-            btn-clean
-            btn-sm
-            btn-icon
-            btn-icon-primary
-            btn-active-light-primary
-            me-n3
-          "
+          class="btn btn-clean btn-sm btn-icon btn-icon-primary btn-active-light-primary me-n3"
           data-kt-menu-trigger="click"
           data-kt-menu-placement="bottom-end"
           data-kt-menu-flip="top-end"

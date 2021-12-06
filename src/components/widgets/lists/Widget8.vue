@@ -47,14 +47,7 @@
 
           <!--begin::Content-->
           <div
-            class="
-              d-flex
-              flex-row-fluid
-              align-items-center
-              flex-wrap
-              my-lg-0
-              me-2
-            "
+            class="d-flex flex-row-fluid align-items-center flex-wrap my-lg-0 me-2"
           >
             <!--begin::Title-->
             <div class="flex-grow-1 my-lg-0 my-2 me-2">

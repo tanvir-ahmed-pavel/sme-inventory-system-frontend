@@ -6,14 +6,7 @@
   >
     <!--begin::Heading-->
     <div
-      class="
-        d-flex
-        flex-column flex-center
-        bgi-no-repeat
-        rounded-top
-        px-9
-        py-10
-      "
+      class="d-flex flex-column flex-center bgi-no-repeat rounded-top px-9 py-10"
       style="background-image: url('media/misc/pattern-1.jpg')"
     >
       <!--begin::Title-->
@@ -32,14 +25,7 @@
       <div class="col-6">
         <a
           href="#"
-          class="
-            d-flex
-            flex-column flex-center
-            h-100
-            p-6
-            bg-hover-light
-            border-end border-bottom
-          "
+          class="d-flex flex-column flex-center h-100 p-6 bg-hover-light border-end border-bottom"
         >
           <span class="svg-icon svg-icon-3x svg-icon-success mb-2">
             <inline-svg src="media/icons/duotune/finance/fin009.svg" />
@@ -54,14 +40,7 @@
       <div class="col-6">
         <a
           href="#"
-          class="
-            d-flex
-            flex-column flex-center
-            h-100
-            p-6
-            bg-hover-light
-            border-bottom
-          "
+          class="d-flex flex-column flex-center h-100 p-6 bg-hover-light border-bottom"
         >
           <span class="svg-icon svg-icon-3x svg-icon-success mb-2">
             <inline-svg src="media/icons/duotune/communication/com010.svg" />
@@ -76,14 +55,7 @@
       <div class="col-6">
         <a
           href="#"
-          class="
-            d-flex
-            flex-column flex-center
-            h-100
-            p-6
-            bg-hover-light
-            border-end
-          "
+          class="d-flex flex-column flex-center h-100 p-6 bg-hover-light border-end"
         >
           <span class="svg-icon svg-icon-3x svg-icon-success mb-2">
             <inline-svg src="media/icons/duotune/abstract/abs042.svg" />

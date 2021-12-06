@@ -10,19 +10,7 @@
           <img :src="avatar" alt="image" />
           <div
             v-if="online"
-            class="
-              bg-success
-              position-absolute
-              rounded-circle
-              translate-middle
-              start-100
-              top-100
-              border border-4 border-white
-              h-15px
-              w-15px
-              ms-n3
-              mt-n3
-            "
+            class="bg-success position-absolute rounded-circle translate-middle start-100 top-100 border border-4 border-white h-15px w-15px ms-n3 mt-n3"
           ></div>
         </div>
         <div v-else class="symbol symbol-65px symbol-circle mb-5">
@@ -33,19 +21,7 @@
           >
           <div
             v-if="online"
-            class="
-              bg-success
-              position-absolute
-              rounded-circle
-              translate-middle
-              start-100
-              top-100
-              border border-4 border-white
-              h-15px
-              w-15px
-              ms-n3
-              mt-n3
-            "
+            class="bg-success position-absolute rounded-circle translate-middle start-100 top-100 border border-4 border-white h-15px w-15px ms-n3 mt-n3"
           ></div>
         </div>
         <!--end::Avatar-->

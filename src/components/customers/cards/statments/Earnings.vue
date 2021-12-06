@@ -22,14 +22,7 @@
         <div class="d-flex flex-wrap">
           <!--begin::Col-->
           <div
-            class="
-              border border-dashed border-gray-300
-              w-150px
-              rounded
-              my-3
-              p-4
-              me-6
-            "
+            class="border border-dashed border-gray-300 w-150px rounded my-3 p-4 me-6"
           >
             <span class="fs-1 fw-bolder text-gray-800 lh-1">
               <span
@@ -50,14 +43,7 @@
 
           <!--begin::Col-->
           <div
-            class="
-              border border-dashed border-gray-300
-              w-125px
-              rounded
-              my-3
-              p-4
-              me-6
-            "
+            class="border border-dashed border-gray-300 w-125px rounded my-3 p-4 me-6"
           >
             <span class="fs-1 fw-bolder text-gray-800 lh-1">
               <span class="" data-kt-countup="true" data-kt-countup-value="16"
@@ -75,14 +61,7 @@
 
           <!--begin::Col-->
           <div
-            class="
-              border border-dashed border-gray-300
-              w-150px
-              rounded
-              my-3
-              p-4
-              me-6
-            "
+            class="border border-dashed border-gray-300 w-150px rounded my-3 p-4 me-6"
           >
             <span class="fs-1 fw-bolder text-gray-800 lh-1">
               <span

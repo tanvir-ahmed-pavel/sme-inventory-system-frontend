@@ -3,11 +3,7 @@
   <div class="d-flex flex-column flex-lg-row">
     <!--begin::Sidebar-->
     <div
-      class="
-        flex-column flex-lg-row-auto
-        w-100 w-lg-300px w-xl-400px
-        mb-10 mb-lg-0
-      "
+      class="flex-column flex-lg-row-auto w-100 w-lg-300px w-xl-400px mb-10 mb-lg-0"
     >
       <!--begin::Contacts-->
       <div class="card card-flush">
@@ -17,13 +13,7 @@
           <form class="w-100 position-relative" autocomplete="off">
             <!--begin::Icon-->
             <span
-              class="
-                svg-icon svg-icon-2 svg-icon-lg-1 svg-icon-gray-500
-                position-absolute
-                top-50
-                ms-5
-                translate-middle-y
-              "
+              class="svg-icon svg-icon-2 svg-icon-lg-1 svg-icon-gray-500 position-absolute top-50 ms-5 translate-middle-y"
             >
               <inline-svg src="media/icons/duotune/general/gen021.svg" />
             </span>
@@ -70,17 +60,7 @@
                     >
                     <div
                       v-if="item.online"
-                      class="
-                        symbol-badge
-                        bg-success
-                        start-100
-                        top-100
-                        border-4
-                        h-15px
-                        w-15px
-                        ms-n2
-                        mt-n2
-                      "
+                      class="symbol-badge bg-success start-100 top-100 border-4 h-15px w-15px ms-n2 mt-n2"
                     ></div>
                   </div>
                   <!--end::Avatar-->
@@ -88,12 +68,7 @@
                   <div class="ms-5">
                     <a
                       href="#"
-                      class="
-                        fs-5
-                        fw-bolder
-                        text-gray-900 text-hover-primary
-                        mb-2
-                      "
+                      class="fs-5 fw-bolder text-gray-900 text-hover-primary mb-2"
                       >{{ item.name }}</a
                     >
                     <div class="fw-bold text-gray-400">{{ item.email }}</div>
@@ -176,14 +151,7 @@
               <template v-else>
                 <a
                   href="#"
-                  class="
-                    fs-4
-                    fw-bolder
-                    text-gray-900 text-hover-primary
-                    me-1
-                    mb-2
-                    lh-1
-                  "
+                  class="fs-4 fw-bolder text-gray-900 text-hover-primary me-1 mb-2 lh-1"
                   >Brian Cox</a
                 >
 

@@ -1,26 +1,13 @@
 <template>
   <!--begin::Stepper-->
   <div
-    class="
-      stepper stepper-pills stepper-column
-      d-flex
-      flex-column flex-xl-row flex-row-fluid
-    "
+    class="stepper stepper-pills stepper-column d-flex flex-column flex-xl-row flex-row-fluid"
     id="kt_create_account_stepper"
     ref="verticalWizardRef"
   >
     <!--begin::Aside-->
     <div
-      class="
-        d-flex
-        justify-content-center
-        bg-white
-        rounded
-        justify-content-xl-start
-        flex-row-auto
-        w-100 w-xl-300px w-xxl-400px
-        me-9
-      "
+      class="d-flex justify-content-center bg-white rounded justify-content-xl-start flex-row-auto w-100 w-xl-300px w-xxl-400px me-9"
     >
       <!--begin::Wrapper-->
       <div class="px-6 px-lg-10 px-xxl-15 py-20">

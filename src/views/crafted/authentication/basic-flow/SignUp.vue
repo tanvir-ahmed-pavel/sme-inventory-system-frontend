@@ -67,21 +67,21 @@
         <!--end::Col-->
 
         <!--begin::Col-->
-<!--        <div class="col-xl-6">-->
-<!--          <label class="form-label fw-bolder text-dark fs-6">Last Name</label>-->
-<!--          <Field-->
-<!--            class="form-control form-control-lg form-control-solid"-->
-<!--            type="text"-->
-<!--            placeholder=""-->
-<!--            name="surname"-->
-<!--            autocomplete="off"-->
-<!--          />-->
-<!--          <div class="fv-plugins-message-container">-->
-<!--            <div class="fv-help-block">-->
-<!--              <ErrorMessage name="surname" />-->
-<!--            </div>-->
-<!--          </div>-->
-<!--        </div>-->
+        <!--        <div class="col-xl-6">-->
+        <!--          <label class="form-label fw-bolder text-dark fs-6">Last Name</label>-->
+        <!--          <Field-->
+        <!--            class="form-control form-control-lg form-control-solid"-->
+        <!--            type="text"-->
+        <!--            placeholder=""-->
+        <!--            name="surname"-->
+        <!--            autocomplete="off"-->
+        <!--          />-->
+        <!--          <div class="fv-plugins-message-container">-->
+        <!--            <div class="fv-help-block">-->
+        <!--              <ErrorMessage name="surname" />-->
+        <!--            </div>-->
+        <!--          </div>-->
+        <!--        </div>-->
         <!--end::Col-->
       </div>
       <!--end::Input group-->

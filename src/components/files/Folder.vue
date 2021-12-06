@@ -4,14 +4,7 @@
     <div class="card h-100">
       <!--begin::Card body-->
       <div
-        class="
-          card-body
-          d-flex
-          justify-content-center
-          text-center
-          flex-column
-          p-8
-        "
+        class="card-body d-flex justify-content-center text-center flex-column p-8"
       >
         <!--begin::Name-->
         <a href="#" class="text-gray-800 text-hover-primary d-flex flex-column">

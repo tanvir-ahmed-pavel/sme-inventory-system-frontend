@@ -34,22 +34,13 @@
         <div class="modal-body py-lg-10 px-lg-10">
           <!--begin::Stepper-->
           <div
-            class="
-              stepper stepper-pills stepper-column
-              d-flex
-              flex-column flex-xl-row flex-row-fluid
-            "
+            class="stepper stepper-pills stepper-column d-flex flex-column flex-xl-row flex-row-fluid"
             id="kt_modal_create_app_stepper"
             ref="createAppRef"
           >
             <!--begin::Aside-->
             <div
-              class="
-                d-flex
-                justify-content-center justify-content-xl-start
-                flex-row-auto
-                w-100 w-xl-300px
-              "
+              class="d-flex justify-content-center justify-content-xl-start flex-row-auto w-100 w-xl-300px"
             >
               <!--begin::Nav-->
               <div class="stepper-nav ps-lg-10">
@@ -267,9 +258,7 @@
 
                           <!--begin:Input-->
                           <span
-                            class="
-                              form-check form-check-custom form-check-solid
-                            "
+                            class="form-check form-check-custom form-check-solid"
                           >
                             <Field
                               class="form-check-input"
@@ -317,9 +306,7 @@
 
                           <!--begin:Input-->
                           <span
-                            class="
-                              form-check form-check-custom form-check-solid
-                            "
+                            class="form-check form-check-custom form-check-solid"
                           >
                             <Field
                               class="form-check-input"
@@ -367,9 +354,7 @@
 
                           <!--begin:Input-->
                           <span
-                            class="
-                              form-check form-check-custom form-check-solid
-                            "
+                            class="form-check form-check-custom form-check-solid"
                           >
                             <Field
                               class="form-check-input"
@@ -749,14 +734,7 @@
                     <div class="d-flex flex-column mb-7 fv-row">
                       <!--begin::Label-->
                       <label
-                        class="
-                          d-flex
-                          align-items-center
-                          fs-6
-                          fw-bold
-                          form-label
-                          mb-2
-                        "
+                        class="d-flex align-items-center fs-6 fw-bold form-label mb-2"
                       >
                         <span class="required">Name On Card</span>
                         <i
@@ -805,13 +783,7 @@
 
                         <!--begin::Card logos-->
                         <div
-                          class="
-                            position-absolute
-                            translate-middle-y
-                            top-50
-                            end-0
-                            me-5
-                          "
+                          class="position-absolute translate-middle-y top-50 end-0 me-5"
                         >
                           <img
                             src="media/svg/card-logos/visa.svg"
@@ -851,10 +823,7 @@
                           <div class="col-6">
                             <Field
                               name="cardExpiryMonth"
-                              class="
-                                form-select form-select-solid
-                                select2-hidden-accessible
-                              "
+                              class="form-select form-select-solid select2-hidden-accessible"
                               placeholder="Month"
                               as="select"
                             >
@@ -866,10 +835,7 @@
                               ></option>
                             </Field>
                             <ErrorMessage
-                              class="
-                                fv-plugins-message-container
-                                invalid-feedback
-                              "
+                              class="fv-plugins-message-container invalid-feedback"
                               name="cardExpiryMonth"
                             />
                           </div>
@@ -879,10 +845,7 @@
                           <div class="col-6">
                             <Field
                               name="cardExpiryYear"
-                              class="
-                                form-select form-select-solid
-                                select2-hidden-accessible
-                              "
+                              class="form-select form-select-solid select2-hidden-accessible"
                               placeholder="Year"
                               as="select"
                             >
@@ -894,10 +857,7 @@
                               ></option>
                             </Field>
                             <ErrorMessage
-                              class="
-                                fv-plugins-message-container
-                                invalid-feedback
-                              "
+                              class="fv-plugins-message-container invalid-feedback"
                               name="cardExpiryYear"
                             />
                           </div>
@@ -911,14 +871,7 @@
                       <div class="col-md-4 fv-row">
                         <!--begin::Label-->
                         <label
-                          class="
-                            d-flex
-                            align-items-center
-                            fs-6
-                            fw-bold
-                            form-label
-                            mb-2
-                          "
+                          class="d-flex align-items-center fs-6 fw-bold form-label mb-2"
                         >
                           <span class="required">CVV</span>
                           <i
@@ -941,23 +894,14 @@
                             name="cardCvv"
                           />
                           <ErrorMessage
-                            class="
-                              fv-plugins-message-container
-                              invalid-feedback
-                            "
+                            class="fv-plugins-message-container invalid-feedback"
                             name="cardCvv"
                           />
                           <!--end::Input-->
 
                           <!--begin::CVV icon-->
                           <div
-                            class="
-                              position-absolute
-                              translate-middle-y
-                              top-50
-                              end-0
-                              me-3
-                            "
+                            class="position-absolute translate-middle-y top-50 end-0 me-3"
                           >
                             <span class="svg-icon svg-icon-2hx">
                               <inline-svg
@@ -988,12 +932,7 @@
 
                       <!--begin::Switch-->
                       <label
-                        class="
-                          form-check
-                          form-switch
-                          form-check-custom
-                          form-check-solid
-                        "
+                        class="form-check form-switch form-check-custom form-check-solid"
                       >
                         <Field
                           type="checkbox"
@@ -1077,11 +1016,7 @@
                       <span class="indicator-progress">
                         Please wait...
                         <span
-                          class="
-                            spinner-border spinner-border-sm
-                            align-middle
-                            ms-2
-                          "
+                          class="spinner-border spinner-border-sm align-middle ms-2"
                         ></span>
                       </span>
                     </button>

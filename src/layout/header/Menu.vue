@@ -15,21 +15,7 @@
   >
     <!--begin::Menu-->
     <div
-      class="
-        menu
-        menu-lg-rounded
-        menu-column
-        menu-lg-row
-        menu-state-bg
-        menu-title-gray-700
-        menu-state-title-primary
-        menu-state-icon-primary
-        menu-state-bullet-primary
-        menu-arrow-gray-400
-        fw-bold
-        my-5 my-lg-0
-        align-items-stretch
-      "
+      class="menu menu-lg-rounded menu-column menu-lg-row menu-state-bg menu-title-gray-700 menu-state-title-primary menu-state-icon-primary menu-state-bullet-primary menu-arrow-gray-400 fw-bold my-5 my-lg-0 align-items-stretch"
       id="#kt_header_menu"
       data-kt-menu="true"
     >
@@ -69,14 +55,7 @@
             <span class="menu-arrow d-lg-none"></span>
           </span>
           <div
-            class="
-              menu-sub
-              menu-sub-lg-down-accordion
-              menu-sub-lg-dropdown
-              menu-rounded-0
-              py-lg-4
-              w-lg-225px
-            "
+            class="menu-sub menu-sub-lg-down-accordion menu-sub-lg-dropdown menu-rounded-0 py-lg-4 w-lg-225px"
           >
             <template v-for="(menuItem, j) in item.pages" :key="j">
               <div
@@ -108,14 +87,7 @@
                   <span class="menu-arrow"></span>
                 </span>
                 <div
-                  class="
-                    menu-sub
-                    menu-sub-lg-down-accordion
-                    menu-sub-lg-dropdown
-                    menu-active-bg
-                    py-lg-4
-                    w-lg-225px
-                  "
+                  class="menu-sub menu-sub-lg-down-accordion menu-sub-lg-dropdown menu-active-bg py-lg-4 w-lg-225px"
                 >
                   <template v-for="(menuItem1, k) in menuItem.sub" :key="k">
                     <div
@@ -137,14 +109,7 @@
                         <span class="menu-arrow"></span>
                       </span>
                       <div
-                        class="
-                          menu-sub
-                          menu-sub-lg-down-accordion
-                          menu-sub-lg-dropdown
-                          menu-active-bg
-                          py-lg-4
-                          w-lg-225px
-                        "
+                        class="menu-sub menu-sub-lg-down-accordion menu-sub-lg-dropdown menu-active-bg py-lg-4 w-lg-225px"
                       >
                         <template
                           v-for="(menuItem2, l) in menuItem1.sub"
@@ -209,14 +174,7 @@
           <span class="menu-arrow d-lg-none"></span>
         </span>
         <div
-          class="
-            menu-sub
-            menu-sub-lg-down-accordion
-            menu-sub-lg-dropdown
-            menu-rounded-0
-            py-lg-4
-            w-lg-225px
-          "
+          class="menu-sub menu-sub-lg-down-accordion menu-sub-lg-dropdown menu-rounded-0 py-lg-4 w-lg-225px"
         >
           <div class="menu-item">
             <a
@@ -290,11 +248,7 @@
           <span class="menu-arrow d-lg-none"></span>
         </span>
         <div
-          class="
-            menu-sub menu-sub-lg-down-accordion menu-sub-lg-dropdown
-            w-100 w-lg-600px
-            p-5 p-lg-5
-          "
+          class="menu-sub menu-sub-lg-down-accordion menu-sub-lg-dropdown w-100 w-lg-600px p-5 p-lg-5"
           style=""
         >
           <!--begin:Row-->
