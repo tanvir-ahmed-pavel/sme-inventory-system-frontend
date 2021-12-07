@@ -75,6 +75,12 @@ const DocMenuConfig = [
     route: "/selling",
     pages: [
       {
+        heading: "Projects",
+        route: "dummy-route",
+        svgIcon: "media/icons/duotune/finance/fin006.svg",
+        fontIcon: "bi-printer",
+      },
+      {
         heading: "Sales Order",
         route: "dummy-route",
         svgIcon: "media/icons/duotune/finance/fin006.svg",
@@ -82,12 +88,6 @@ const DocMenuConfig = [
       },
       {
         heading: "Sales Invoice",
-        route: "dummy-route",
-        svgIcon: "media/icons/duotune/finance/fin006.svg",
-        fontIcon: "bi-printer",
-      },
-      {
-        heading: "Projects",
         route: "dummy-route",
         svgIcon: "media/icons/duotune/finance/fin006.svg",
         fontIcon: "bi-printer",
@@ -186,13 +186,19 @@ const DocMenuConfig = [
         fontIcon: "bi-printer",
       },
       {
-        heading: "Accounts Receivablen",
+        heading: "A/C Receivable Summary",
         route: "dummy-route",
         svgIcon: "media/icons/duotune/finance/fin006.svg",
         fontIcon: "bi-printer",
       },
       {
-        heading: "Accounts Receivablen",
+        heading: "Accounts Payable",
+        route: "dummy-route",
+        svgIcon: "media/icons/duotune/finance/fin006.svg",
+        fontIcon: "bi-printer",
+      },
+      {
+        heading: "A/C Payable Summary",
         route: "dummy-route",
         svgIcon: "media/icons/duotune/finance/fin006.svg",
         fontIcon: "bi-printer",
@@ -211,18 +217,6 @@ const DocMenuConfig = [
       },
       {
         heading: "Cash Statement",
-        route: "dummy-route",
-        svgIcon: "media/icons/duotune/finance/fin006.svg",
-        fontIcon: "bi-printer",
-      },
-      {
-        heading: "A/C Receivable Summary",
-        route: "dummy-route",
-        svgIcon: "media/icons/duotune/finance/fin006.svg",
-        fontIcon: "bi-printer",
-      },
-      {
-        heading: "A/C Payable Summary",
         route: "dummy-route",
         svgIcon: "media/icons/duotune/finance/fin006.svg",
         fontIcon: "bi-printer",
