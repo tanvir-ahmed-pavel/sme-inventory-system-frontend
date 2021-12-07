@@ -149,18 +149,19 @@ export default class AuthModule extends VuexModule implements UserAuthInfo {
     if (JwtService.getToken()) {
       // For Future Reference
 
-      // ApiService.setHeader();
-      // ApiService.get("api/user")
-      //   .then(({ data }) => {
-      //     data.push({token: JwtService.getToken()});
-      //     console.log(data);
-      //     this.context.commit(Mutations.SET_AUTH, data);
-      //   })
-      //   .catch(({response}) => {
-      //     console.log(response);
-      //     this.context.commit(Mutations.SET_ERROR, response.data);
-      //   });
-      return;
+      ApiService.setHeader();
+      ApiService.get("api/user")
+        .then(() => {
+          return;
+        })
+        .catch(({ response }) => {
+          this.context.commit(Mutations.SET_ERROR, response.data);
+
+          // If the server responses with error code between 400-499 then current token will be deleted / force logged out
+          if (response.status >= 400 && response.status < 500) {
+            this.context.commit(Mutations.PURGE_AUTH);
+          }
+        });
     } else {
       this.context.commit(Mutations.PURGE_AUTH);
     }
